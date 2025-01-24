@@ -19,9 +19,3 @@ React 학습 기록일지
 ```
 
 ---
-
-#### Component
-
-```
-Component 학습 기록일지
-```
